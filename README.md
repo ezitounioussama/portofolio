@@ -20,9 +20,9 @@ I have a passion for creating dynamic and responsive web applications that are b
 
 Here are a few examples of projects I have worked on:
 
-- [Project 1](https://github.com/username/project1): A web application that does X, Y, and Z.
-- [Project 2](https://github.com/username/project2): A mobile app that does A, B, and C.
-- [Project 3](https://github.com/username/project3): A web application that does D, E, and F.
+- [Project 1](https://github.com/ezitounioussama/puzzleGame): A PuzzleGame With VueJS Just For Fun.
+- [Project 2](https://github.com/ezitounioussama/task-tracker): A Task Tracker app that you can store you note delete or even do a remiender to you tasks!.
+- [Project 3](https://github.com/ezitounioussama/crudPhp): A PHP Native web application that track the abscence and create courses, groups, and more feautures to you as a Teacher.
 
 ## Contact Me
 
